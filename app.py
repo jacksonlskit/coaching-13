@@ -1,2 +1,3 @@
 import utils
-utils.greeting("jacksonlskit")
+utils.greeting("<my_name>")
+utils.goodbye()
